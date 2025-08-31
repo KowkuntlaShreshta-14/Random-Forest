@@ -1,1 +1,2 @@
 # Random-Forest
+This project implements Random Forest model using Python. Random Forest is an ensemble learning method that builds multiple decision trees and merges them together for more accurate and stable predictions.The student_performance_dataset is taken from Kaggle.It contains different features like Student_ID,gender,Study_Hours_per_Week,Attendance,Past_Exam_Scores,Parental_Education_Level,Internet_Access_at_Home,Extracurricular_Activities,Final_Exam_Score,Pass_Fail.The target variable is Pass_Fail.We are predicting the result i.e. Pass or Fail.
